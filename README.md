@@ -89,7 +89,7 @@ User messages (green, right) and AI responses (dark, left) with avatars.
 
 This project is licensed under the MIT License.
 
-##Author
+## Author
 
 Aniket Nikam
 🔗 LinkedIn
