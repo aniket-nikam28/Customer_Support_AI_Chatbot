@@ -1,13 +1,31 @@
-# Customer_Support_AI_Chatbot
-An AI-powered customer support chatbot built with LangChain, Google Gemini, ChromaDB, and Streamlit. It uses Retrieval-Augmented Generation (RAG) to answer product and support-related queries based on UrbanCart’s knowledge base. The bot supports multi-turn conversations with memory, provides context-aware answers, and comes with a modern UI.
+# 🛒 UrbanCart Customer Support AI Bot
 
-Demo: Streamlit app built with LangChain, Gemini, ChromaDB.
+An AI-powered **customer support  AI chatbot** built with **LangChain, Google Gemini, ChromaDB, HuggingFace Embeddings, and Streamlit**.  
 
-## Run locally
-1. Create a venv & install
-2. Add `.env` with `GOOGLE_API_KEY` and `CHROMA_PERSIST_DIR`
-3. `streamlit run app.py`
+This bot uses **Retrieval-Augmented Generation (RAG)** to answer customer queries based on UrbanCart’s knowledge base.  
+It supports **multi-turn conversations with memory** and features a **modern chat-style UI**.
 
-## Deploy
-Deployed on Streamlit Community Cloud. See deployment steps in repo docs.
+---
+
+## Features
+
+- **AI-Powered Answers** – Uses Google Gemini API with LangChain.  
+- **RAG (Retrieval-Augmented Generation)** – Fetches answers from stored documents (PDF, TXT, CSV).  
+- **Conversation Memory** – Maintains context across multiple queries.  
+- **Chat-Style UI** – WhatsApp-like interface with left/right aligned messages and avatars.  
+- **Fast & Lightweight** – Uses `sentence-transformers/all-MiniLM-L6-v2` for embeddings.  
+
+---
+
+## 🛠️ Tech Stack
+
+- [LangChain](https://www.langchain.com/) – Orchestration framework  
+- [Google Gemini API](https://ai.google.dev/) – LLM backend  
+- [ChromaDB](https://www.trychroma.com/) – Vector database  
+- [HuggingFace Sentence Transformers](https://www.sbert.net/) – Embeddings  
+- [Streamlit](https://streamlit.io/) – Web UI  
+
+---
+
+## 📂 Project Structure
 
