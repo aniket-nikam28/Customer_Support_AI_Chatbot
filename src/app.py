@@ -105,7 +105,7 @@ with st.sidebar:
         st.rerun()
 
     st.divider()
-    st.markdown("🔗 [View on GitHub](https://github.com/yourusername/yourproject)")
+    st.markdown("🔗 [View on GitHub](https://github.com/aniket-nikam28/Customer_Support_AI_Chatbot)")
 
 def display_message(role, content):
     if role == "user":
@@ -174,6 +174,7 @@ if user_query:
             for i, doc in enumerate(sources, 1):
                 snippet = doc.page_content[:200].replace("\n", " ")
                 st.markdown(f"**{i}.** {snippet}  \n📄 *{doc.metadata.get('source', 'unknown')}*")
+
 
 
 
