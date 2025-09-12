@@ -1,4 +1,4 @@
-# 🛒 UrbanCart Customer Support AI Bot
+#  UrbanCart Customer Support AI Bot
 
 An AI-powered **customer support  AI chatbot** built with **LangChain, Google Gemini, ChromaDB, HuggingFace Embeddings, and Streamlit**.  
 
