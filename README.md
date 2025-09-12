@@ -81,6 +81,8 @@ Deploy
 
 ## Screenshots
 Chat UI
+<img width="1423" height="766" alt="Output" src="https://github.com/user-attachments/assets/01f94f7a-7b0c-48a1-88f7-cc3b8e9f2bb6" />
+
 
 User messages (green, right) and AI responses (dark, left) with avatars.
 
