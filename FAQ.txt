@@ -1,0 +1,154 @@
+Store name : UrbanCart 
+UrbanCart is a modern e-commerce platform offering a wide range of products – from the latest gadgets and electronics to fashion, home essentials, and lifestyle items. With fast delivery, secure payments, and 24/7 customer support, UrbanCart is designed to make online shopping simple, reliable, and enjoyable.
+
+Frequently Asked Questions (FAQs)
+
+Q: How do I create an account?
+A: Click "Sign Up" on the homepage and enter your details. You’ll receive a confirmation email.
+
+Q: How do I track my order?
+A: After logging in, go to "My Orders" → select your order → click "Track".
+
+Q: What payment methods do you accept?
+A: We accept credit/debit cards, UPI, and PayPal.
+
+Q: Can I change my shipping address after placing an order?
+A: Yes, you can update the shipping address within 12 hours of placing the order from "My Account → Addresses".
+
+Q: How do I contact customer support?
+A: You can email us at support@aniketstore.com or call +91-9876543210.
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page and follow the instructions sent to your registered email.
+
+Q: Can I delete my account?
+A: Yes, please email support@aniketstore.com with your request, and our team will assist you.
+
+Q: How do I cancel my order?
+A: Go to "My Orders" → select your order → click "Cancel". Orders can only be canceled before shipping.
+
+Q: What should I do if my order is delayed?
+A: Check the "Track Order" page for updates. If delayed beyond the estimated delivery date, contact support.
+
+Q: Do you offer same-day delivery?
+A: Yes, same-day delivery is available in select cities for eligible products.
+
+Q: Can I schedule delivery for a specific date?
+A: Currently, scheduling is not supported. Orders are delivered as per courier timelines.
+
+Q: Is Cash on Delivery (COD) available?
+A: Yes, COD is available for orders below ₹10,000.
+
+Q: What should I do if my payment fails?
+A: Please retry after checking your payment details. If the issue persists, use an alternative method or contact support.
+
+Q: How do I return a product?
+A: Go to "My Orders" → select your product → click "Return" and follow the instructions.
+
+Q: How long does a refund take?
+A: Refunds are processed within 5–7 business days after the returned item is received.
+
+Q: Can I exchange a product?
+A: Yes, exchanges are allowed within 7 days of delivery for eligible products.
+
+Q: How do I check if a product is in stock?
+A: Stock availability is displayed on the product page. If unavailable, you can choose "Notify Me".
+
+Q: Do you offer product warranties?
+A: Yes, warranty details are provided on the product page for eligible items.
+
+Q: How do I apply a coupon code?
+A: On the checkout page, enter your coupon code in the "Apply Coupon" box and click "Apply".
+
+Q: Can I combine multiple discounts?
+A: No, only one coupon code or discount can be applied per order.
+
+Q: Do you have live chat support?
+A: Yes, live chat is available 9 AM – 9 PM IST on our website and mobile app.
+
+Q: What are your customer support hours?
+A: Our support team is available 24/7 via email and from 9 AM – 9 PM IST via phone/chat.
+
+Q: Do you deliver internationally?
+A: Currently, we only ship within India.
+
+Q: Can I preorder items?
+A: Yes, if a product supports preordering, you will see the "Preorder" option on the product page.
+
+Q: Do you provide gift wrapping?
+A: Yes, gift wrapping is available for a small additional charge at checkout.
+
+Q: How do I update my profile details?
+A: Go to "My Account" → "Profile" and edit your details.
+
+Q: Can I save multiple addresses?
+A: Yes, you can add and manage multiple addresses under "My Account → Addresses".
+
+Q: Do you have a mobile app?
+A: Yes, download our app from Google Play Store or Apple App Store.
+
+Q: How do I unsubscribe from marketing emails?
+A: Click "Unsubscribe" at the bottom of any marketing email.
+
+Q: What should I do if I receive a damaged product?
+A: Please raise a return request within 48 hours of delivery with photos of the damaged item.
+
+Q: Can I order without an account?
+A: Yes, guest checkout is available, but creating an account helps track your orders easily.
+
+Q: Do you offer bulk purchase discounts?
+A: Yes, for bulk orders, please contact sales@aniketstore.com.
+
+Q: Can I pay in installments?
+A: Yes, EMI options are available for select credit cards at checkout.
+
+Q: How do I know if my order is confirmed?
+A: You will receive a confirmation email and SMS once your order is placed successfully.
+
+Q: What happens if I miss my delivery?
+A: The courier will attempt delivery up to 3 times. After that, the order will be returned to us.
+
+Q: How can I change my phone number linked to the account?
+A: Go to "My Account → Profile" and update your phone number.
+
+Q: Do you charge for shipping?
+A: Shipping is free for orders above ₹499. Below that, a small fee applies.
+
+Q: How do I check my wallet balance?
+A: Go to "My Account → Wallet" to view your balance.
+
+Q: What should I do if I enter the wrong email address?
+A: Contact support immediately to update your email.
+
+Q: Can I reorder a past purchase?
+A: Yes, go to "My Orders" and click "Reorder" for the desired product.
+
+Q: How do I know if a product is eligible for return?
+A: Eligibility is mentioned on the product page and during checkout.
+
+Q: Do you offer loyalty rewards?
+A: Yes, you earn reward points for every purchase, which can be redeemed later.
+
+Q: Can I change the delivery pincode after placing an order?
+A: No, you need to cancel and reorder with the correct address.
+
+Q: Do you provide invoices for orders?
+A: Yes, downloadable invoices are available under "My Orders".
+
+Q: Can I update my payment method after placing an order?
+A: No, once the order is placed, the payment method cannot be changed.
+
+Q: How do I check current offers?
+A: Visit the "Offers" section on our homepage or app.
+
+Q: Do you provide installation services?
+A: Yes, for appliances and electronics, free or paid installation is available.
+
+Q: Can I split my order into multiple deliveries?
+A: Yes, depending on product availability, items may be shipped separately.
+
+Q: What should I do if I forget my registered email?
+A: Contact support with your phone number and order details for assistance.
+
+Q: Can I track my refund status?
+A: Yes, refund details are available under "My Orders → Refund Status".
