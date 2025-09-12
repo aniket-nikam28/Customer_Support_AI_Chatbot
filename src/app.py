@@ -1,4 +1,7 @@
 import os
+import os
+import sys
+import pysqlite3
 from dotenv import load_dotenv
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -173,5 +176,6 @@ if user_query:
             for i, doc in enumerate(sources, 1):
                 snippet = doc.page_content[:200].replace("\n", " ")
                 st.markdown(f"**{i}.** {snippet}  \n📄 *{doc.metadata.get('source', 'unknown')}*")
+
 
 
