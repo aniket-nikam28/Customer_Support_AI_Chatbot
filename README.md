@@ -94,5 +94,6 @@ This project is licensed under the MIT License.
 ## Author
 
 Aniket Nikam
-🔗 LinkedIn
+🔗 [LinkedIn](www.linkedin.com/in/
+aniket-nikam28).
 
