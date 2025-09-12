@@ -17,7 +17,7 @@ It supports **multi-turn conversations with memory** and features a **modern cha
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [LangChain](https://www.langchain.com/) – Orchestration framework  
 - [Google Gemini API](https://ai.google.dev/) – LLM backend  
@@ -27,7 +27,7 @@ It supports **multi-turn conversations with memory** and features a **modern cha
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
