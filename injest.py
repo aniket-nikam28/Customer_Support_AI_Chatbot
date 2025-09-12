@@ -1,3 +1,4 @@
+import sqlite_patch
 import os
 from dotenv import load_dotenv
 
@@ -74,6 +75,7 @@ if __name__ =="__main__":
     print(f"Split into {len(chunks)} chunks")
     
     store_embeddings(chunks)
+
 
 
 
