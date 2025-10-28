@@ -5,7 +5,8 @@ import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
-from langchain.chains import create_retrieval_chain, create_history_aware_retriever
+from langchain.chains import create_retrieval_chain
+from langchain.chains.history_aware_retriever import create_history_aware_retriever
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.prompts import ChatPromptTemplate
 
@@ -174,6 +175,7 @@ if user_query:
             for i, doc in enumerate(sources, 1):
                 snippet = doc.page_content[:200].replace("\n", " ")
                 st.markdown(f"**{i}.** {snippet}  \n📄 *{doc.metadata.get('source', 'unknown')}*")
+
 
 
 
